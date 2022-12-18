@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is robin hwang and I am a Kakao developer with a focus on Kotlin development. I have experience working on search and advertising services at Kakao and am always looking for ways to improve my skills and stay up-to-date on the latest technology trends.
+
+I am passionate about writing clean, maintainable code and am particularly interested in Domain-Driven Design (DDD) and Microservices Architecture (MSA). I believe that by following these principles, we can build scalable, efficient systems that are easy to understand and maintain.
+
+In my free time, I enjoy learning about new technologies and staying up-to-date on the latest industry trends. I also enjoy contributing to open source projects and collaborating with other developers to solve challenging problems.
 
 <!--
 **revfactory/revfactory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
