@@ -2,8 +2,3 @@
 저는 카카오 AI Native 전략 팀의 리더 황민호(robin.hwang) 입니다. 2013년부터 카카오에 재직하며 Daum 검색 서비스, 광고 플랫폼 Moment, 오픈소스 관리 플랫폼 OLIVE 등 주요 프로젝트 개발에 참여했습니다. 현재는 AI Agent와 같은 최신 AI 트렌드와 기술을 선제적으로 탐구하고 구현하여 카카오의 AI 전략 수립에 기여하고 있습니다.
 
 새로운 기술을 배우고 최신 산업 동향을 파악하는 것을 즐깁니다. 또한, 오픈소스 프로젝트에 기여하고 다른 개발자들과 협력하여 어려운 문제를 해결하는 데에도 적극적으로 참여하고 있습니다.
-
- [![Revfactory's github stats](https://github-readme-stats.vercel.app/api?username=revfactory)](https://github.com/anuraghazra/github-readme-stats)
- 
- ---
- [![](profile-3d-contrib/profile-customize.svg)](https://github.com/revfactory/revfactory)
